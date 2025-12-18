@@ -14,7 +14,7 @@ I love to build AI/ML projects that solve real-world problems! 🚀
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=coffeescript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
