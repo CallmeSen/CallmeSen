@@ -1,57 +1,97 @@
+<div align="center">
 
-### Hi there 👋, Welcome!
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=HI+I'M+CALLMESEN;DEVOPS+%7C+BACKEND+%7C+AI+ENGINEERING;CI%2FCD+%E2%80%A2+KUBERNETES+%E2%80%A2+OBSERVABILITY;BUILD+SYSTEMS+THAT+RUN+RELIABLY" alt="Typing SVG" />
 
+<br/>
 
-Hello! 👋🏻 My name is **Huỳnh Thanh Tuấn**. I'm a college student at SaiGon University from Vietnam 🇻🇳
+<p>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-hu%E1%BB%B3nh-540689392/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/callmesen/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
-I have a huge interest in **Machine Learning** 🤖 and **Natural Language Processing** 📝! Currently working on Neural Machine Translation using LSTM Encoder-Decoder models and exploring attention mechanisms.
-
-I love to build AI/ML projects that solve real-world problems! 🚀
-
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-
-### Technologies
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoft&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub-Actions)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Loki](https://img.shields.io/badge/-Loki-000?&logo=Grafana)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)
-
-
-- 🔭 I'm currently working on **English-German Machine Translation** using LSTM Encoder-Decoder
-- 🌱 I'm currently learning Transformer architectures & Attention mechanisms
-- 👯 I'm looking to collaborate on NLP and Deep Learning projects
-- 📫 How to reach me: CallmeSen (GitHub)
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CallmeSen)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallmeSen&show_icons=true&theme=radical)
+## About
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeSen&layout=compact&theme=radical)
+I am interested in the part of software that happens after code is written:  
+**containerization, CI/CD, deployment, observability, and system reliability**.
+
+Currently learning and building around:
+
+```yaml
+currently:
+  building: backend services and deployment workflows
+  learning: Kubernetes, GitOps, and observability
+  exploring: AI application deployment
+  improving: Linux, networking, and automation scripts
+```
+
+---
+
+## Tech stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,bash&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,nextjs&theme=dark" />
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,gitlab,argocd&theme=dark" />
+
+### Data & AI
+
+<img src="https://skillicons.dev/icons?i=postgre,mongodb,pytorch,tensorflow&theme=dark" />
+
+</div>
+
+---
+
+## Current direction
+
+<table>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>Automating builds, deployments, and repeatable workflows</td>
+  </tr>
+  <tr>
+    <td><b>Cloud-native</b></td>
+    <td>Working with containers, Kubernetes, and GitOps-style delivery</td>
+  </tr>
+  <tr>
+    <td><b>Observability</b></td>
+    <td>Understanding systems through logs, metrics, and dashboards</td>
+  </tr>
+  <tr>
+    <td><b>AI Engineering</b></td>
+    <td>Deploying AI-powered applications so they can run in real environments</td>
+  </tr>
+</table>
+
+---
+
+## GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CallmeSen&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td width="75%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CallmeSen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
