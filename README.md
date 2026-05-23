@@ -58,29 +58,6 @@ currently:
 
 ---
 
-## Current direction
-
-<table>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>Automating builds, deployments, and repeatable workflows</td>
-  </tr>
-  <tr>
-    <td><b>Cloud-native</b></td>
-    <td>Working with containers, Kubernetes, and GitOps-style delivery</td>
-  </tr>
-  <tr>
-    <td><b>Observability</b></td>
-    <td>Understanding systems through logs, metrics, and dashboards</td>
-  </tr>
-  <tr>
-    <td><b>AI Engineering</b></td>
-    <td>Deploying AI-powered applications so they can run in real environments</td>
-  </tr>
-</table>
-
----
-
 ## GitHub Statistics
 
 <table align="center">
@@ -93,5 +70,3 @@ currently:
     </td>
   </tr>
 </table>
-
----
